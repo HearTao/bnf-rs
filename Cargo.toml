@@ -1,0 +1,6 @@
+[package]
+name = "bnf-rs"
+version = "0.1.0"
+authors = ["王文璐 <kingwenlu@gmail.com>"]
+
+[dependencies]
